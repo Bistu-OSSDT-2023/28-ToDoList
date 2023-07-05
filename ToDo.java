@@ -4,7 +4,7 @@ public class ToDo {
     private String title;
     private String description;
     private boolean completed;
-    private int a；
+    private int pre；
 
     public ToDo() {
         // 默认构造函数
