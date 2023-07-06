@@ -20,6 +20,15 @@
 ![image](https://github.com/Bistu-OSSDT-2023/28-ToDoList/assets/138202658/592a7227-31f9-4b27-bfa7-26bc14bc2f07)
 ![image](https://github.com/Bistu-OSSDT-2023/28-ToDoList/assets/138202658/acb426e1-2936-4ea0-94c9-45893388218d)
 
-# Design Concept
-寻找一个可以帮助我们避免遗忘、理清头绪；增强紧迫感、提高办事效率；同时可以持续解锁和自驱，带来成就感，帮助我们养成习惯。
+
+# Design philosophy
+帮助我们避免遗忘、理清头绪；
+增强紧迫感、提高办事效率；
+持续解锁和自驱，带来成就感；
+帮助我们养成习惯。
+
+# suitable for the croud
+总是有预定的具体工作需要解决的白领
+当代大学生
+假期间有补作业需求的青少年
 
