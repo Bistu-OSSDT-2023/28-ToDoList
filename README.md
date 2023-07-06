@@ -1,4 +1,4 @@
-![image](https://github.com/Bistu-OSSDT-2023/28-ToDoList/assets/138206103/6809512b-60c9-4a7a-ad90-e3f56d189a93)# 28-ToDoList
+# 28-ToDoList
 
 # Member
 导师：覃召杨
